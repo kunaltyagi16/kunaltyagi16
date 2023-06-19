@@ -1,8 +1,8 @@
 ### Hi there 👋
 <h1 align="center"> Hello, I'm Kunal Tyagi 👨‍💻 </h1>
 <h3 align="center">  Tech Enthusiast/Developer | Computer Engineer </h3> <br>
-- 📫 Welcome to my github account
-- 😄 Checkout my projects
+- 📫 Welcome to my github account <br>
+- 😄 Checkout my projects [Frontend, Backend, ML etc]
 
 <!--
 **kunaltyagi16/kunaltyagi16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
