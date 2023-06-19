@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 📫 Welcome to my github account ...
+- 📫 Welcome to my github account
 - 😄 Checkout my projects
 
 <!--
