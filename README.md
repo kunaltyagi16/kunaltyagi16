@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1 align="center"> Hello, I'm Kunal Tyagi 👨‍💻 </h1>
 <h3 align="center">  Tech Enthusiast/Developer | Computer Engineer </h3> <br>
-- 📫 Welcome to my github account <br>
+- 📫 Welcome to my GitHub account <br>
 - 😄 Checkout my projects [Frontend, Backend, ML etc]
 
 <!--
