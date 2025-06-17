@@ -3,6 +3,7 @@
 <h3 align="center">  Tech Enthusiast/Developer | Product Thinker </h3> <br>
 - 📫 Welcome to my GitHub account <br>
 - 😄 Checkout my projects [Frontend, ML etc]
+- @Amity University, Noida
 
 <!--
 **kunaltyagi16/kunaltyagi16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
